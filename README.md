@@ -1,5 +1,5 @@
 # NetworkDirectionality
-Code to undertake the calculations in Keylock and Carbone (2026). Phys. Rev. E
+Code to undertake the calculations in Keylock and Carbone (2026). Phys. Rev. E 113, 034314, doi: 10.1103/lbfb-69mf
 
 The primary file is NetworkLaplacianDirectionality.m
 This takes an adjacency matrix and two discretisation parameters as inputs and 
